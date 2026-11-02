@@ -10,6 +10,19 @@ My work explores how **Codex and other AI-assisted development tools** can help 
 
 > **Reviewer note:** These are genuine development-stage prototypes, not production releases. The screenshots below were captured from my Android phone on November 1, 2026. Code, credentials, employer/client information, and non-public operational material have intentionally not been published.
 
+
+## Watch the actual prototype demonstrations
+
+These short, silent OBS recordings were captured on **November 1, 2026** using a separate public-safe recording profile. They show project screens and development snapshots; they are not finished-product advertisements.
+
+- **[Project overview](demos/01-overview-obs.mp4)** — field problems, Field Photo, Aurora, Praxis, RIFT and DreamWorld.
+- **[Praxis local application walkthrough](demos/02-praxis-local-obs.mp4)** — genuine v34.14 local preview, welcome screen, tools and Academy. No production connection or customer records.
+- **[RIFT research paper walkthrough](demos/03-rift-research-obs.mp4)** — pages from the independent [Engineering Intent proposal](docs/Engineering-Intent-RIFT.pdf). Research hypothesis, not a validated benchmark.
+- **[Aurora live Android demonstration](demos/04-aurora-live-obs.mp4)** — screen feed from an installed Samsung Android build v0.5.0, version code 1379; voice/overlay behavior and release readiness remain under development.
+
+**Field Photo Android v0.2.1** is also installed and version-matched against its latest local APK. A separate hands-on camera-to-export demo is planned; no unverified end-to-end recording is claimed here.
+
+
 ---
 
 ## 1. Field Photo: documentation built for technicians
